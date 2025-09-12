@@ -28,14 +28,19 @@ int main(int argc, char* argv[]) {
                     if (f_stream.is_open()) {
                         Action taskAction = (action == "encrypt") ? Action::ENCRYPT : Action::DECRYPT;
                         auto task = std::make_unique<Task>(std::move(f_stream), taskAction, filePath);
-                        processManagement.submitToQueue(std::move(task));
+                        processManagement.submitToQueue(std::move(task));  //submitting task to queue
+
                     } else {
                         std::cout << "Unable to open file: " << filePath << std::endl;
                     }
                 }
             }
 
+
+        // here we execute all the tasks in the queue but now using multiple threads
+
             processManagement.executeTasks();
+        
         } else {
             std::cout << "Invalid directory path!" << std::endl;
         }
