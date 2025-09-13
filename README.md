@@ -14,11 +14,11 @@ Project Type: Systems Programming / File Security
 	•	Features
 	•	System Components Used
 	•	Working Flow
-	•	Diagrams
+	•	Diagrams for easy understanding
 	•	Limitations
 	•	Potential Extensions
 	•	Project Files
-	•	How to Run
+	•	How to Run 
 
 ⸻
 
