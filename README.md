@@ -80,14 +80,6 @@ The project was built to:
 UML diagram 
 <img width="688" height="427" alt="Screenshot 2025-09-12 at 9 11 17 PM" src="https://github.com/user-attachments/assets/fbbb779f-f60b-4227-9797-ca6ab7203312" />
 
-System Architecture Diagram 
-<img width="884" height="482" alt="Screenshot 2025-09-12 at 9 11 31 PM" src="https://github.com/user-attachments/assets/72c8990c-e18b-49d0-b473-66935763778f" />
-
-
-Data Flow Diagram 
-<img width="884" height="482" alt="Screenshot 2025-09-12 at 9 11 38 PM" src="https://github.com/user-attachments/assets/1389e499-8b56-49ca-ba8f-55a159f336b4" />
-
-
 TERMINAL OUTPUT 
 <img width="1470" height="956" alt="Screenshot 2025-09-12 at 9 09 51 PM" src="https://github.com/user-attachments/assets/994deae6-c0c4-4bdc-9ec9-945f1cc5d1c7" />
 
