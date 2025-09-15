@@ -37,7 +37,7 @@ This project implements a File Encryption and Decryption system using process ma
 ## Project Motivation
 
 The project was built to:
-	•	Explore low-level file handling in C++.
+	•	Explore low-level file handling in C++..
 	•	Understand process creation (fork, exec) and management.
 	•	Apply synchronization techniques such as semaphores and locks.
 	•	Create a practical project that can encrypt/decrypt multiple files efficiently.
