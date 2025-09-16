@@ -2,7 +2,7 @@
 
 ## File Encryptor & Decryptor
 
-Author: Nishtha Dahiya
+Author: Nishtha Dahiya.
 Language: C++
 Project Type: Systems Programming / File Security
 
