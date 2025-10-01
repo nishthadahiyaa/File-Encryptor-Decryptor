@@ -4,7 +4,7 @@
 
 Author: Nishtha Dahiya.
 Language: C++
-Project Type: Systems Programming / File Security.
+Project Type: Systems Programming / File Security
 
 ⸻
 
